@@ -2,9 +2,8 @@
 
 This script is designed to process of zipping files within project directories, eliminating repetitive manual selection. It focuses on `.hdl` files.
 
-## Usage Instructions
+## How to
 
-How to:
 1. Select directory containing all you projects (not exact project, only folder  containing them). 
 
 2. Select zip option and type number of project.
