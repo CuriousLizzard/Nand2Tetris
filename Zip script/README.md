@@ -1,4 +1,4 @@
-###Script for convenient ziping
+## Script for convenient ziping
 
 The script is pretty simple and allows you select projects folder and zip files without monotonous selection.
 How to:
