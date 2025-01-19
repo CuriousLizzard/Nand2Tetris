@@ -1,9 +1,16 @@
-## Script for convenient ziping
+# Project Zipping Utility Documentation
 
-The script is pretty simple and allows you select projects folder and zip files without monotonous selection.
+This script is designed to process of zipping files within project directories, eliminating repetitive manual selection. It focuses on `.hdl` files.
+
+## Usage Instructions
+
 How to:
-1. Choose directory with projects (not the exact project folder, but directory with all projects);
-2. Select zip option and type number of project
-3. You can apply command-line flag to search for .hdl in all subdirectories
+1. Select directory containing all you projects (not exact project, only folder  containing them). 
 
-Currently only .hdl is available, but you can edit the script.
+2. Select zip option and type number of project.
+
+3. You can apply command-line flag to search for .hdl in all subdirectories.
+
+## Current Limitations
+
+- **File Type Specificity**: The script currently processes only `.hdl` files. If there is a need to handle other types of files, you will need to modify the script accordingly.
